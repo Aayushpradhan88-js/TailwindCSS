@@ -1,1 +1,5 @@
-/src/output.css
+#outputcss is ignored
+src/output.css
+
+# modules is ignored
+node_modules
